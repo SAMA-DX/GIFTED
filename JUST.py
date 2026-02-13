@@ -1,4 +1,4 @@
-from SAMA import SAMA  # استيراد كلاس SAMA من ملف SAMA.py
+from SAMA import SAMA
 
 if __name__ == '__main__':
     tool = SAMA()
