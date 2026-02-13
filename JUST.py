@@ -1,3 +1,3 @@
 import SAMA
-tool = SAMA.SHAJON()
+tool = SAMA()
 tool.__approval__()
